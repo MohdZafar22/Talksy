@@ -12,7 +12,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 - Protected routes & secure token handling  
 - Optional profile picture support  
 
-<img src="./client/Talksy/screenshot/login.jpg" width="100%" />
+<img src="./client/talksy/screenshot/login.png" width="100%" />
 
 ---
 
@@ -21,7 +21,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 - Live typing indicators using Socket.IO  
 - Instant UI updates for better conversation flow  
 
-<img src="./client/Talksy/screenshot/onlineTyping.png" width="100%" />
+<img src="./client/talksy/screenshot/onlineTyping.png" width="100%" />
 
 ---
 
@@ -30,7 +30,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 - Multi-user real-time messaging  
 - Dynamic participant management  
 
-<img src="./client/Talksy/screenshot/GroupChat.png" width="100%" />
+<img src="./client/talksy/screenshot/GroupChat.png" width="100%" />
 
 ---
 
@@ -39,7 +39,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 - Background chat notifications  
 - Enhanced user engagement  
 
-<img src="./client/Talksy/screenshot/notifi.png" height="350" />
+<img src="./client/talksy/screenshot/notifi.png" height="350" />
 
 ---
 
@@ -47,7 +47,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 - Modern dark theme UI  
 - Improved readability in low-light environments  
 
-<img src="./client/Talksy/screenshot/Screenshot 2026-02-11 141017.png" width="100%" />
+<img src="./client/talksy/screenshot/Screenshot 2026-02-11 141017.png" width="100%" />
 
 ---
 
@@ -56,7 +56,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 - Works across phones, tablets, and desktops  
 - Smooth adaptive layouts  
 
-<img src="./client/Talksy/screenshot/Responsivedeisgn.png" width="100%" />
+<img src="./client/talksy/screenshot/Responsivedeisgn.png" width="100%" />
 
 ---
 
@@ -86,7 +86,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 
 ## 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/MohdZafar22/Talksy.git
+git clone https://github.com/MohdZafar22/Talksy-Chat-app.git
 cd Talksy
 ```
 
@@ -98,7 +98,7 @@ cd client/Talksy
 npm install
 ```
 
-### Create `.env`
+### Create `.env.local`
 ```
 REACT_APP_API_KEY=http://localhost:5000
 ```
