@@ -86,7 +86,7 @@ It enables seamless one-to-one and group communication with secure authenticatio
 
 ## 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/MohdZafar22/Talksy-Chat-app.git
+git clone https://github.com/MohdZafar22/Talksy.git
 cd Talksy
 ```
 
