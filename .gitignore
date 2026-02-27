@@ -1,0 +1,29 @@
+/client/talksy/node_modules
+/client/talksy/.pnp
+/client/talksy/.pnp.js
+
+# testing
+/client/talksy/coverage
+
+# production
+/client/talksy/build
+
+#firebase
+client/talksy/firebase.json
+client/talksy/.firebase
+client/talksy/.firebaserc
+client/talksy/README.md
+# misc
+client/talksy/.env
+/client/talksy/.DS_Store
+/client/talksy/.env.local
+/client/talksy/env
+/client/talksy/.env.development.local
+/client/talksy/.env.test.local
+/client/talksy/.env.production.local
+
+/client/talksy/npm-debug.log*
+/client/talksy/yarn-debug.log*
+/client/talksy/yarn-error.log*
+/server/node_modules
+/server/.env
